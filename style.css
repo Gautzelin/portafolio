@@ -235,7 +235,7 @@ html {
 .estudios{
     
     width: 100%;
-    height: 80vh;
+    height: 100vh;
     background-image: linear-gradient(-20deg, #243b37f5 0%, #615130c0 100%), url('./images/estudios.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -259,7 +259,7 @@ html {
     background: rgba(128, 128, 128, 0.5);
     display: flex;
     flex-flow: row nowrap;
-    height: 150px;
+    height: 130px;
     width: 750px;
     justify-content: space-around;
     align-items: center;
@@ -270,8 +270,8 @@ html {
     /* border: 1px solid blue; */
 }
 .estudios__picture{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     margin: 0 25px;
 }
 .estudios__texts{
@@ -284,7 +284,7 @@ html {
 }
 .estudios__paragraph{
     font-weight: 300;
-    margin: 30px 0;
+    margin: 15px 0;
 }
 /* End of ESTUDIOS styles */
 
@@ -370,7 +370,7 @@ html {
 
 .formulario{
     width: 100%;
-    height: 80vh;
+    height: 90vh;
     background-image: linear-gradient(-20deg, #243b37f5 0%, #615130c0 100%), url('./images/contact.jpg');
     background-repeat: no-repeat;
     background-size: cover;
